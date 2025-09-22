@@ -1,0 +1,2 @@
+clang++ -Wall -Wextra -Werror -std=c++98 main.cpp FragTrap.cpp ScavTrap.cpp ClapTrap.cpp
+./a.out
