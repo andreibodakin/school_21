@@ -1,0 +1,62 @@
+# IDE & Editors
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Build & Compilation
+/target/
+/out/
+/build/
+/bin/
+*.class
+*.jar
+*.war
+*.exe
+*.o
+*.out
+*.a
+*.so
+*.dylib
+*.dll
+*.lib
+*.obj
+*.gch
+*.dSYM/
+
+# Logs & Temp
+*.log
+logs/
+temp/
+tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# C/C++ specific
+*.d
+*.s
+*.su
+*.lst
+*.map
+
+# Java specific
+*.jar
+*.war
+*.nar
+*.jmod
+
+# Make & CMake
+Makefile
+CMakeLists.txt.user
+cmake-build-*/
+compile_commands.json
+
+# Git
+*.orig
+
